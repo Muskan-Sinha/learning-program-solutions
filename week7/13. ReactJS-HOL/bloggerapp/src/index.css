@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  padding: 0 20px;
+  width: 250px;
+}
+
+.divider {
+  width: 2px;
+  background-color: green;
+  margin: 0 10px;
+}
